@@ -17,7 +17,7 @@ export default async function Index() {
                 <Clubs />
                 <Pulv />
             </div>
-            <Footer />
+            <Footer /> 
         </>
     );
 }
